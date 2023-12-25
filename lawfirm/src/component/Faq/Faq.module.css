@@ -1,0 +1,27 @@
+.wrapperone{
+    display: flex;
+    justify-content: space-between;
+}
+.wrappertwo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: space-between;
+}
+.line{
+width:600px;
+background: gray;
+border: 1px solid gray;
+}
+.wrapperthree{
+    display: flex;
+    justify-content: space-between;
+}
+.circle{
+    margin-top: 20px;
+    border-radius: 20px;
+    margin-right:30px ;
+    width: 25px;
+    height: 25px;
+    background: #E3B748;
+}

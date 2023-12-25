@@ -1,0 +1,12 @@
+.wrapper{
+    width: 344px;
+    height: 109px;
+    display: flex;
+    gap:40px;
+}
+.outterWrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    row-gap: 50px;
+}

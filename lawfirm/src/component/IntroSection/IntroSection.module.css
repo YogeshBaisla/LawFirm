@@ -1,0 +1,12 @@
+.wrapper{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.line{
+    border: 0.25px solid white;
+width: 0px;
+height: 200px;
+background-color: #6A6A6A;
+
+}

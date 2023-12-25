@@ -1,0 +1,11 @@
+.heading{
+    display: flex;
+    justify-content: space-between;
+}
+.textContent{
+    color: white;
+}
+.clientWrapper{
+    display: flex;
+    justify-content: space-between;
+}

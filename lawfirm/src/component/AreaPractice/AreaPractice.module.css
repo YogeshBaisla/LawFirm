@@ -1,0 +1,15 @@
+.heading{
+    color: white;
+}
+.wrapper{
+    margin-top: 100px;
+}
+.Parent{
+    position: relative;
+}
+.imageBox{
+    position: absolute;
+    color: white;
+    bottom: 10%;
+    right:40%;
+}

@@ -1,0 +1,15 @@
+.heading{
+    color: white
+}
+.readButton{
+width:100px;
+    height: 50px;
+    background-color:#E3B748;
+    border: 2px solid #E3B748;
+    border-radius: 30px;
+}
+.wrapper{
+
+    display: flex;
+    justify-content: space-between;
+}

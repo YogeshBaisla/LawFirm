@@ -1,0 +1,21 @@
+.outterwrapper{
+    display:flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.innerwrapper{
+    display:flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 40px;
+    color: white;
+}
+.button{
+    border: 2px solid white;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    width: 172px;
+    height: 47px;
+}

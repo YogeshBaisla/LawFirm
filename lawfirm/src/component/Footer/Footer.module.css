@@ -1,0 +1,38 @@
+.outterwrapper{
+    display:flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.innerwrapper{
+    display:flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 40px;
+    color: white;
+}
+.button{
+    border: 2px solid white;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    width: 172px;
+    height: 47px;
+}
+.logowrapper{
+    display:flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 10px;
+
+}
+.baseWrapper{
+    margin-top: 100px;
+    color: white;
+    display:flex;
+    align-items: baseline;
+    justify-content: center;
+    gap: 10px;
+
+}
